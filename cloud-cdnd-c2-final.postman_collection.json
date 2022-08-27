@@ -12,7 +12,7 @@
 				"header": [],
 				"url": {
 					"raw": "http://{{HOST}}/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{HOST}}"
 					],
